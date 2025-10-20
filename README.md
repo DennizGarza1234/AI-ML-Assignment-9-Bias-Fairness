@@ -1,7 +1,7 @@
 # AI-ML Assignment 9: Bias and Fairness
 **Author:** Denniz Garza  
-**Dataset:** Adult Census Income (or your chosen dataset)  
-**Fairness Tool:** AIF360 (or Fairlearn)
+**Dataset:** Adult Census Income
+**Fairness Tool:** AIF360
 
 ## Summary
 We trained a baseline classifier to predict income >50K. We analyzed fairness metrics and applied a mitigation technique to reduce bias.
