@@ -34,8 +34,4 @@ This demonstrates the **typical fairness-accuracy trade-off**: improving equalit
 
 ---
 
-## Requirements
-
----
-
 ## Youtube Link
